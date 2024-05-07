@@ -4,3 +4,6 @@
 [submodule "PyramidFlow"]
 	path = PyramidFlow
 	url = https://github.com/gasharper/PyramidFlow
+[submodule "MemSeg"]
+	path = MemSeg
+	url = https://github.com/TooTouch/MemSeg
